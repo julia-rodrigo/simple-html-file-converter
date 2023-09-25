@@ -1,0 +1,18 @@
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\assignment 1 converting.csproj.AssemblyReference.cache
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\assignment 1 converting.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\assignment 1 converting.AssemblyInfoInputs.cache
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\assignment 1 converting.AssemblyInfo.cs
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\assignment 1 converting.csproj.CoreCompileInputs.cache
+D:\3rd Year\cs264 c sharp\assignment 1 converting\bin\Debug\net5.0\assignment 1 converting.exe
+D:\3rd Year\cs264 c sharp\assignment 1 converting\bin\Debug\net5.0\assignment 1 converting.deps.json
+D:\3rd Year\cs264 c sharp\assignment 1 converting\bin\Debug\net5.0\assignment 1 converting.runtimeconfig.json
+D:\3rd Year\cs264 c sharp\assignment 1 converting\bin\Debug\net5.0\assignment 1 converting.runtimeconfig.dev.json
+D:\3rd Year\cs264 c sharp\assignment 1 converting\bin\Debug\net5.0\assignment 1 converting.dll
+D:\3rd Year\cs264 c sharp\assignment 1 converting\bin\Debug\net5.0\ref\assignment 1 converting.dll
+D:\3rd Year\cs264 c sharp\assignment 1 converting\bin\Debug\net5.0\assignment 1 converting.pdb
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\assignment 1 converting.dll
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\ref\assignment 1 converting.dll
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\assignment 1 converting.pdb
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\assignment 1 converting.genruntimeconfig.cache
+D:\3rd Year\cs264 c sharp\assignment 1 converting\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\assignment 1 converting.csproj.CopyComplete

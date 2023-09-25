@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3R8zsfD7YtzOteA7NovFoU/S1mldL3Gl8QKkZDcFoobM0P+nRxTyfZZD6rUtF7RKsoiVeU1OUt0Bumbbmhspg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\OneDrive\\main_stage\\code\\uni_stuff\\assignment 1 converting\\assignment 1 converting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512"
+  ],
+  "logs": []
+}

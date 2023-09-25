@@ -1,0 +1,17 @@
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\bin\Debug\net7.0\assignment 1 converting.exe
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\bin\Debug\net7.0\assignment 1 converting.deps.json
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\bin\Debug\net7.0\assignment 1 converting.runtimeconfig.json
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\bin\Debug\net7.0\assignment 1 converting.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\bin\Debug\net7.0\assignment 1 converting.pdb
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\assignment 1 converting.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\assignment 1 converting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\assignment 1 converting.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\assignment 1 converting.AssemblyInfo.cs
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\assignment 1 converting.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\assignment 1 converting.csproj.CopyComplete
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\assignment 1 converting.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\refint\assignment 1 converting.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\assignment 1 converting.pdb
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\assignment 1 converting.genruntimeconfig.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\assignment 1 converting\obj\Debug\net7.0\ref\assignment 1 converting.dll

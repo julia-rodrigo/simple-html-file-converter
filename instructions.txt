@@ -1,0 +1,39 @@
+HOW TO RUN THIS CODE.
+
+In visual studio, make sure your root folder is correct.
+download dotnet on your OS.
+
+Check your dotnet version
+{
+    > dotnet --version
+    7.0.401 
+    
+    // look at the first number of your version. In my case it's 7
+    // Go to 'week2 cs264.csproj' file. 
+    // replace for example: 
+    // <TargetFramework>net5.0</TargetFramework>
+    // with 
+    // <TargetFramework>net7.0</TargetFramework>
+}
+
+This program has the file 'table.html'. You can edit this file to output a new file.
+
+run the program
+{
+    // in line 59, please input your right path for the project 
+    // eg: D:\3rd Year\cs264 c sharp\assignment 1 converting\table.html
+    // please dont forget to add the filename: table.html, at the end.
+
+    > dotnet run
+    // wait for a bit and begin the program with 'y' followed by instructions
+}
+
+recommendations
+{
+    Download 'Live Server' in VS Code
+    When the file 'Shape.svg' is created after the program exits, 
+    right click on the file and select Open with Live Server.
+}
+
+Thanks :)
+This was a project for the module cs264.

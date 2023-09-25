@@ -1,0 +1,5 @@
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\week1_cs264.csproj.AssemblyReference.cache
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\week1_cs264.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\week1_cs264.AssemblyInfoInputs.cache
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\week1_cs264.AssemblyInfo.cs
+D:\3rd Year\cs264 c sharp\assignment 1 converting\obj\Debug\net5.0\week1_cs264.csproj.CoreCompileInputs.cache
